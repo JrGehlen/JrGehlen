@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JrGehlen
-- 👀 I’m interested in javascript on first moment
+- 👀 I’m interested in front-end / Git&Github
 - 🌱 I’m currently learning, initial free course
 - 💞️ I’m looking to collaborate on my way
 - 📫 How to reach me ivanorgehlenebertzjr@gmail.com
